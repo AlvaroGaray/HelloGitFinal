@@ -1,0 +1,15 @@
+C:\Users\Sistemas14\source\repos\HelloGitFinal\bin\Debug\net6.0\HelloGitFinal.exe
+C:\Users\Sistemas14\source\repos\HelloGitFinal\bin\Debug\net6.0\HelloGitFinal.deps.json
+C:\Users\Sistemas14\source\repos\HelloGitFinal\bin\Debug\net6.0\HelloGitFinal.runtimeconfig.json
+C:\Users\Sistemas14\source\repos\HelloGitFinal\bin\Debug\net6.0\HelloGitFinal.dll
+C:\Users\Sistemas14\source\repos\HelloGitFinal\bin\Debug\net6.0\HelloGitFinal.pdb
+C:\Users\Sistemas14\source\repos\HelloGitFinal\obj\Debug\net6.0\HelloGitFinal.csproj.AssemblyReference.cache
+C:\Users\Sistemas14\source\repos\HelloGitFinal\obj\Debug\net6.0\HelloGitFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sistemas14\source\repos\HelloGitFinal\obj\Debug\net6.0\HelloGitFinal.AssemblyInfoInputs.cache
+C:\Users\Sistemas14\source\repos\HelloGitFinal\obj\Debug\net6.0\HelloGitFinal.AssemblyInfo.cs
+C:\Users\Sistemas14\source\repos\HelloGitFinal\obj\Debug\net6.0\HelloGitFinal.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas14\source\repos\HelloGitFinal\obj\Debug\net6.0\HelloGitFinal.dll
+C:\Users\Sistemas14\source\repos\HelloGitFinal\obj\Debug\net6.0\refint\HelloGitFinal.dll
+C:\Users\Sistemas14\source\repos\HelloGitFinal\obj\Debug\net6.0\HelloGitFinal.pdb
+C:\Users\Sistemas14\source\repos\HelloGitFinal\obj\Debug\net6.0\HelloGitFinal.genruntimeconfig.cache
+C:\Users\Sistemas14\source\repos\HelloGitFinal\obj\Debug\net6.0\ref\HelloGitFinal.dll
